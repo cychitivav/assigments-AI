@@ -10,8 +10,6 @@ In this assignment I worked with three images of a hand in three different light
 
     Then run a matching routine (using all histogram matching methods) against the other indoor lighting images of hands. 
 
-1. Now add 8 and then 32 bins per dimension and try matching across lighting conditions (train on indoor, test on outdoor).
-
 > __Note__: The development of this assignment was done in the following Jupyter [Notebook](Code.ipynb).
 
 The images used in this assignment are available in the [img folder](Img).
